@@ -21,7 +21,7 @@ This is one of our best apps and we are constantly working on it.
 Hope you'll enjoy using it.
 
 
-## Common Features
+## Some Features
 
 - Wishing through Email
 - Wishing through SMS
