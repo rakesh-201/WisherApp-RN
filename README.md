@@ -41,7 +41,7 @@ Hope you'll enjoy using it.
 - Notification Redirection Issue
   - Upon clicking on the notification received, the user gets redirected to the email sending screen.
   - However, because of some internal working of the notification system, this redirection sometimes don't quite work in some mobiles.
-  - Moreover, I tried to reduce this issues, but for some older mobile this issue still exist.
+  - Moreover, I tried to reduce this issues, but for some older mobiles this issue still exist.
   - For such mobiles, I successfully found a work around, which is to fisrt open `My Wisher` app and then click on the notification.
   - Doing this revolves the issue.
 
