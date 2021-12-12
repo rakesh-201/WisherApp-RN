@@ -20,7 +20,6 @@ This is one of our best apps and we are constantly working on it.
 
 Hope you'll enjoy using it.
 
-
 ## Some Features
 
 - Wishing through Email
@@ -31,6 +30,20 @@ Hope you'll enjoy using it.
 ## Links:
 
 - Website link: [Website link here](https://bit.ly/my-wisher)
+
+## Challenges
+
+- SMS Sending Feature
+  - Although there are various APIs available for sending SMS, non of them is free. 
+  - So finding a way to integrate the SMS functionality at a cheaper to zero cost was a task. 
+  - However, I did found a work around using Expo's services which helped do this quite comfortably with zero cost.
+
+- Notification Redirection Issue
+  - Upon clicking on the notification received, the user gets redirected to the email sending screen.
+  - However, because of some internal working of the notification system, this redirection sometimes don't quite work in some mobiles.
+  - Moreover, I tried to reduce this issues, but for some older mobile this issue still exist.
+  - For such mobiles, I successfully found a work around, which is to fisrt open `My Wisher` app and then click on the notification.
+  - Doing this revolves the issue.
 
 ## Technology stack
 
@@ -45,4 +58,4 @@ Hope you'll enjoy using it.
 
 ## Future scope
 
-- The Performance can be improved by using Cloud Functions for sending mails and SMS.
+- The Performance can be improved by using Cloud Functions for sending Emails and SMS.
