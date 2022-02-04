@@ -1,12 +1,6 @@
+![Banner](https://github.com/rakesh-201/WisherApp-RN/blob/main/Wis.gif)
+
 # My Wisher
-
-
-## Screenshots
-
-![image](https://play-lh.googleusercontent.com/sT9Li9ChQFaecaXY5qgKO7WhmD7xx2-MWQLt4K8RDEbx_YO-XlfBa7OjQzk0W1bLyNo=w720-h310-rw)
-![image](https://play-lh.googleusercontent.com/1GcF86n2j_nCjfdLL9YDG6jhA_yRS7FnhcQjxxt-_-aqlC24ay7OvPq5qB-KbPKE4w=w720-h310-rw)
-![image](https://play-lh.googleusercontent.com/lQ81-5tauStJeSfOIZJrclvh9cf4ZUQEp990ZQ1-eJyzfTm1n3CFmQ56xBxiPJhVKcGX=w720-h310-rw)
-![image](https://play-lh.googleusercontent.com/vll2HyIuyJrwon27bAwS6wsKeZFnINQrJ3JInvxyc-4hoHz-wccKixHf61r2SvJgsew=w720-h310-rw)
 
 ## Description
 
@@ -59,3 +53,12 @@ Hope you'll enjoy using it.
 ## Future scope
 
 - The Performance can be improved by using Cloud Functions for sending Emails and SMS.
+
+
+## Screenshots
+
+![image](https://play-lh.googleusercontent.com/sT9Li9ChQFaecaXY5qgKO7WhmD7xx2-MWQLt4K8RDEbx_YO-XlfBa7OjQzk0W1bLyNo=w720-h310-rw)
+![image](https://play-lh.googleusercontent.com/1GcF86n2j_nCjfdLL9YDG6jhA_yRS7FnhcQjxxt-_-aqlC24ay7OvPq5qB-KbPKE4w=w720-h310-rw)
+![image](https://play-lh.googleusercontent.com/lQ81-5tauStJeSfOIZJrclvh9cf4ZUQEp990ZQ1-eJyzfTm1n3CFmQ56xBxiPJhVKcGX=w720-h310-rw)
+![image](https://play-lh.googleusercontent.com/vll2HyIuyJrwon27bAwS6wsKeZFnINQrJ3JInvxyc-4hoHz-wccKixHf61r2SvJgsew=w720-h310-rw)
+
